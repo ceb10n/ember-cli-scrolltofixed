@@ -7,7 +7,7 @@ module.exports = function(defaults) {
     // Add options here
   });
 
-  app.import('bower_components/ScrollToFixed/jquery-scrolltofixed-min.js');
+  // app.import('bower_components/ScrollToFixed/jquery-scrolltofixed-min.js');
 
   return app.toTree();
 };

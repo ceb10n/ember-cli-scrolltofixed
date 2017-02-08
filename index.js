@@ -12,6 +12,6 @@ module.exports = {
     }
 
     var bowerDir = target.bowerDirectory;
-    target.import(bowerDir + '/ScrollToFixed/jquery-scrolltofixed-min.js');
+    target.import(bowerDir + '/ScrollToFixed/jquery-scrolltofixed.js');
   }
 };
