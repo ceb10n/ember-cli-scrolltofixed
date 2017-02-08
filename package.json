@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-scrolltofixed",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "repository": "git@github.com:ceb10n/ember-cli-scrolltofixed.git",
   "description": "Ember wrapper for JQuery-scrollToFixed.js",
   "keywords": [
