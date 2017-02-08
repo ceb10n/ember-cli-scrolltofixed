@@ -6,7 +6,7 @@ export default Ember.Component.extend({
   tagName: 'nav',
   classNames: ['scrollToFixed'],
 
-  didRender() {
-    this.$('.scrollToFixed').scrollToFixed();
+  didInsertElement() {
+    $('.scrollToFixed').scrollToFixed();
   }
 });
