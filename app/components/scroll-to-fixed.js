@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-scrolltofixed/components/scroll-to-fixed';
