@@ -1,10 +1,12 @@
 {
   "name": "ember-cli-scrolltofixed",
-  "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.2",
+  "repository": "git@github.com:ceb10n/ember-cli-scrolltofixed.git",
+  "description": "Ember wrapper for JQuery-scrollToFixed.js",
   "keywords": [
     "ember-addon",
-    "jquery-scrollToFixed"
+    "jquery-scrollToFixed",
+    "wrapper"
   ],
   "license": "MIT",
   "author": "",
